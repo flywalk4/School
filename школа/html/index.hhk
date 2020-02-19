@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a4d5b3b28b6a591cf708bcda1d3236f72"><param name="Name" value="day"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_student.html#a5af719c9d0efb3db7c525c049faae63a"><param name="Name" value="grade"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a4d5b3b28b6a591cf708bcda1d3236f72"><param name="Name" value="day"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a57195d50abbe143de382d1213f755522"><param name="Name" value="Human"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a1a8a3396d576328bb338ddd0a8a3f807"><param name="Name" value="month"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a13799d570913a7ae5427bb15c4d81bb0"><param name="Name" value="name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#aee9815d0357bc8be600f99407214e032"><param name="Name" value="sex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html"><param name="Name" value="Human"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a4d06702dc92ea4498bfcdf5e8efe8971"><param name="Name" value="surname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#aa16010f6ab521bf54601bfe66dfe7640"><param name="Name" value="Human"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#aca58079a2e74488e7574ac1f0f0652d7"><param name="Name" value="money"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a1a8a3396d576328bb338ddd0a8a3f807"><param name="Name" value="month"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a13799d570913a7ae5427bb15c4d81bb0"><param name="Name" value="name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a221d59cfe43880fadd0de86d78c2992f"><param name="Name" value="profession"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#aee9815d0357bc8be600f99407214e032"><param name="Name" value="sex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_student.html"><param name="Name" value="Student"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_student.html"><param name="Name" value="Student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_student.html#a5af719c9d0efb3db7c525c049faae63a"><param name="Name" value="grade"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_student.html#ab3b149c2029f6d409f50e348ae8485ba"><param name="Name" value="Student"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teacher.html#a1476ee25489262e6bb398d6dc61c9f16"><param name="Name" value="subject"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#a4d06702dc92ea4498bfcdf5e8efe8971"><param name="Name" value="surname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teacher.html"><param name="Name" value="Teacher"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teacher.html"><param name="Name" value="Teacher"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teacher.html#a1476ee25489262e6bb398d6dc61c9f16"><param name="Name" value="subject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teacher.html#aa1bc311fb9093c5965f71a025be05f63"><param name="Name" value="Teacher"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#aca58079a2e74488e7574ac1f0f0652d7"><param name="Name" value="money"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a221d59cfe43880fadd0de86d78c2992f"><param name="Name" value="profession"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a8cf9c283bc3618d11512e8abb6e71113"><param name="Name" value="Worker"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_human.html#aa16010f6ab521bf54601bfe66dfe7640"><param name="Name" value="year"></OBJECT>
+</UL>
+</BODY>
+</HTML>
